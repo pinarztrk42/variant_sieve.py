@@ -1,0 +1,5 @@
+Gene,gnomAD_Freq,Zygosity,Effect
+ADARB1,0.0002,Hom,stop_gained
+TP53,0.015,Het,missense_variant
+PEX1,0.0005,Hom,missense_variant
+BRCA1,0.005,Het,synonymous_variant
