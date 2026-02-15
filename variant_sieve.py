@@ -1,3 +1,17 @@
+
+"""
+Title: Bio-Variant Sieve (v1.0)
+Author: [Pınar Öztürk]
+Date: February 2026
+Description: Automated pipeline for prioritizing rare pathogenic variants 
+             using population frequency and functional effect filters.
+"""
+
+
+
+
+
+
 import argparse
 import sys
 import pandas as pd
